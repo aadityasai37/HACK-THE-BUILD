@@ -14,9 +14,9 @@ body{
 
 #head1
 {   
-	width:800px;
+	width:750px;
 	background-color:#2C3E50 ;
-	margin:left;
+	margin-left:30px;
 	margin-top:20px;
 	color:#FFFFFF;
 	padding:10px 0px 10px 0px;
@@ -26,9 +26,9 @@ body{
 .main
 {
 	background-color:#CACFD2 ;
-	width:800px;
-	margin:left;
-	height:450px;
+	width:750px;
+	margin-left:30px;
+	height:550px;
 	padding:10px 0px 10px 0px ;
 	border-radius:0px 0px 15px 15px;
 	

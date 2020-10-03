@@ -8,7 +8,7 @@ body{
 	  background-position:center;
 	  background-size:cover;
 	  font-family:sans-serif;
-	  margin-top:40px;
+	  margin-top:100px;
 	  
     }
 
@@ -28,7 +28,7 @@ body{
 	background-color:#CACFD2 ;
 	width:600px;
 	margin-left:30px;
-	height:450px;
+	height:300px;
 	padding:10px 0px 10px 0px ;
 	border-radius:0px 0px 15px 15px;
 	
@@ -56,13 +56,13 @@ body{
 label
 {
 	margin-left:5%;
-	width:150px;
+	width:200px;
 	display:inline-block;
 }
-#btnbook
+#btncheck
 {
-	margin-left:50px;
-	width:100px;
+	margin-left:100px;
+	width:260px;
 	
 }
 h1
